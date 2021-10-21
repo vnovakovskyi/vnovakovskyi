@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Vadim and I am a Java Software Engineer
+
 <!--
 **vnovakovskyi/vnovakovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
