@@ -1,18 +1,16 @@
-### Hi there 👋
+### Vadym Novakovskyi
 
-My name is Vadim and I am a Java Software Engineer
+Java engineer with 10+ years on the JVM, based in Lund, Sweden.
+I work on the parts of a platform that tell you whether production is healthy —
+observability, alerting, performance — and turn it into an architecture decisions.
 
-<!--
-**vnovakovskyi/vnovakovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Now** — senior engineer at NE (EdTech): OpenTelemetry and Grafana across all products,
+alerting, performance and scalability work; Running the architecture & stability forum.
+**Before** — AWS Europe → AWS China migration at Sony; company-wide migration to GitHub Actions at a bank.
 
-Here are some ideas to get you started:
+**On GitHub** — tools for AI-assisted development with Claude Code:
+- [claude-dev-skills](https://github.com/vnovakovskyi/claude-dev-skills) — research → plan → implement → pull request
+- [claude-learn-skills](https://github.com/vnovakovskyi/claude-learn-skills) — a tutor that teaches from any Markdown roadmap
+- [java-roadmap](https://github.com/vnovakovskyi/java-roadmap) — from zero to junior Java developer, made to be studied with the tutor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Writing** — [novakovskyi.com](https://novakovskyi.com) · **Contact** — [LinkedIn](https://www.linkedin.com/in/vadym-novakovskyi/)
